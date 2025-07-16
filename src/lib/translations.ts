@@ -778,7 +778,7 @@ export const translations: Record<
       contentGeneration: 'కంటెంట్ జనరేషన్',
       imageWizard: 'ఇమేజ్ విజార్డ్',
       essayGrader: 'వ్యాసం గ్రేడర్',
-      visualExplorer: 'విజువల్ ఎక్స్प्लोరర్',
+      visualExplorer: 'విజువల్ ఎక్స్ప్లోరర్',
       classroomManagement: 'తరగతి గది నిర్వహణ',
     },
     contentGeneration: {
@@ -1080,5 +1080,3 @@ export const translations: Record<
     },
   },
 };
-
-    
